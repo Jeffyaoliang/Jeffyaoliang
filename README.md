@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">👋 Hello! I'm Nano.</h2>
+<h2 align="center">👋 Hello! I'm Yaoliang Bian.</h2>
 <h5 align="center">
-  <a href="https://nano.ac/">Blog</a>
+  <a href="https://jeffyaoliang.github.io//">Blog</a>
   &emsp;•&emsp;
-  <a href="https://t.me/NanoApe">Telegram</a>
+  <a href="https://www.linkedin.com/in/yaoliang-bian-5963852b4/">Linkedin</a>
 </h5>
 
 <table width="100%" align="center">
