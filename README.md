@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2 align="center">😎Hey！Nice to meet you.👋</h2>
 <p align="center">
   <b>😋 About me ✨</b>
-  <img src="https://komarev.com/ghpvc/?username=anda522" style="margin-left: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=Jeffyaoliang" style="margin-left: 10px;">
 </p>
 <h5 align="center">
   <a href="https://jeffyaoliang.github.io//">Blog</a>
