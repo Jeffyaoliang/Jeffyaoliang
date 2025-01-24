@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Jeffyaoliang" style="margin-left: 10px;">
 </p>
 <h5 align="center">
-  <a href="https://jeffyaoliang.github.io//">Blog</a>
+  <a href="https://jeffyaoliang.github.io//">Homepage</a>
   &emsp;•&emsp;
   <a href="https://www.linkedin.com/in/yaoliang-bian-5963852b4/">Linkedin</a>
 </h5>
