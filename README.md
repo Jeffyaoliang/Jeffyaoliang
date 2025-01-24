@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/yaoliang-bian-5963852b4/">Linkedin</a>
 </h5>
 
-<h5 align="center"> 🍠 WOrk hard, play hard! 🍠 </h5>
+<h5 align="center"> 🍠 Work hard, play hard! 🍠 </h5>
 <table width="100%" align="center">
   <tr>
     <td><a href="https://jeffyaoliang.github.io//">
