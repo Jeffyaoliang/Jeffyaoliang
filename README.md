@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 👋 Hi, I’m Yaoliang Bian
 
 🔭 EE Undergraduate @ USTC
-🚀 Passionate about AI Robotics & CV
+- 🚀 Passionate about AI Robotics & CV
 </h5>
 
 <h5 align="center"> 🍠 Work hard, play hard! 🍠 </h5>
