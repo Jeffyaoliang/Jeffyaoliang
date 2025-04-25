@@ -25,15 +25,16 @@ Here are some ideas to get you started:
   <a href="https://jeffyaoliang.github.io//">Homepage</a>
   &emsp;•&emsp;
   <a href="https://www.linkedin.com/in/yaoliang-bian-5963852b4/">Linkedin</a>
+  &emsp;•&emsp;
+  <a href="https://bonjour.bio/yaoliang">bonjour.bio</a>
 </h5>
 
-<div align="center">
-### 👋 Hi, I’m Yaoliang Bian
+<h5 align="center">
+👋 Hi, I’m Yaoliang Bian
 
 - 🔭 EE Undergraduate @ USTC
 - 🚀 Passionate about AI Robotics & CV
-- 🌍 [bonjour.bio/yaoliang](https://bonjour.bio/yaoliang)
-</div>
+</h5>
 
 <h5 align="center"> 🍠 Work hard, play hard! 🍠 </h5>
 <table width="100%" align="center">
