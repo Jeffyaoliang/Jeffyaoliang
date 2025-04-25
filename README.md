@@ -21,6 +21,12 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Jeffyaoliang" style="margin-left: 10px;">
 </p>
 
+<h5 align="center">
+  <a href="https://jeffyaoliang.github.io//">Homepage</a>
+  &emsp;•&emsp;
+  <a href="https://www.linkedin.com/in/yaoliang-bian-5963852b4/">Linkedin</a>
+</h5>
+
 <div align="center">
 ### 👋 Hi, I’m Yaoliang Bian
 
@@ -28,12 +34,6 @@ Here are some ideas to get you started:
 - 🚀 Passionate about AI Robotics & CV
 - 🌍 [bonjour.bio/yaoliang](https://bonjour.bio/yaoliang)
 </div>
-
-<h5 align="center">
-  <a href="https://jeffyaoliang.github.io//">Homepage</a>
-  &emsp;•&emsp;
-  <a href="https://www.linkedin.com/in/yaoliang-bian-5963852b4/">Linkedin</a>
-</h5>
 
 <h5 align="center"> 🍠 Work hard, play hard! 🍠 </h5>
 <table width="100%" align="center">
