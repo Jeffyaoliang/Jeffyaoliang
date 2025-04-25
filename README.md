@@ -20,11 +20,14 @@ Here are some ideas to get you started:
   <b>😋 About me ✨</b>
   <img src="https://komarev.com/ghpvc/?username=Jeffyaoliang" style="margin-left: 10px;">
 </p>
+
+<div align="center">
 ### 👋 Hi, I’m Yaoliang Bian
 
 - 🔭 EE Undergraduate @ USTC
 - 🚀 Passionate about AI Robotics & CV
 - 🌍 [bonjour.bio/yaoliang](https://bonjour.bio/yaoliang)
+</div>
 
 <h5 align="center">
   <a href="https://jeffyaoliang.github.io//">Homepage</a>
