@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 - 🚀 Passionate about AI Robotics & CV
 - 🌍 [bonjour.bio/yaoliang](https://bonjour.bio/yaoliang)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeffyaoliang&show_icons=true&theme=tokyonight)
-
 <h5 align="center">
   <a href="https://jeffyaoliang.github.io//">Homepage</a>
   &emsp;•&emsp;
