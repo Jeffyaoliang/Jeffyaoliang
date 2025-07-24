@@ -4,7 +4,7 @@
 <!-- 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ftianxingchen.github.io&count_bg=%233FDBD2&title_bg=%233D62C7&icon=googlepodcasts.svg&icon_color=%23E9F742&title=Page+Viewers&edge_flat=false"/></a> -->
 	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Jeffyaoliang">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/Jeffyaoliang">
-	<!-- <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/MarioChan2002"> ->>
+	<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/jeffkikt">
 <br>
 <!-- <a href="https://jeffyaoliang.github.io/" target="_blank" style="margin-top: 10px"><img src="https://jeffyaoliang.github.io/files/sign.jpg" height="70px" style="margin-bottom:-1px"></a>
 <a href="https://jeffyaoliang.github.io/" target="_blank"><img src="https://tianxingchen.github.io/files/institute/hku-mmlab3.png" height="70px" style="margin-bottom:-1px"></a>
