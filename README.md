@@ -15,20 +15,24 @@
 
 
 <h3>🏠 <b>Homepage</b>: <a href="https://jeffyaoliang.github.io" target="_blank">jeffyaoliang.github.io</a></h3>
-<p>Hi! I am <strong>Yaoliang Bian (卞耀亮)</strong>, currently a <u>Final year undergraduate student</u> majoring in Electronic Science and Technology at University of Science and Technology of China and doing research at <a href="https://nus.edu.sg/" target="_blank">NUS</a>, supervised by <a href="https://xingyul.github.io/" target="_blank">Prof. Xingyu Liu</a>. I was very fortunate to be advised by <a href="https://ubiot.ustc.edu.cn/weigong" target="_blank">Prof. Wei Gong</a> of <a href="https://ubiot.ustc.edu.cn/Home" target="_blank">Ubiquitous Battery-free Internet of Things Laboratory</a> from <a href="https://en.cs.ustc.edu.cn/" target="_blank">School of Computer Science</a>, University of Science and Technology of China, and <a href="https://www.ece.mcmaster.ca/~ameer/" target="_blank">Prof. Ameer Abehedahi</a> from <a href="https://www.eng.mcmaster.ca/ece/" target="_blank">Department of Electrical and Computer Engineering</a>, McMaster University.</p>
-<div style="magin-top: -10px"></div><p>I have won a a second prize in the <strong>Robogame</strong> at USTC.<br>. I also received <strong>CCF Elite Collegiate Award (CCF优秀大学生, top 99 nationwide)</strong> and <strong>"Excellent Star of SZU (荔园卓越之星)"</strong> which was the recipient of the highest honor for undergraduate students at Shenzhen University (rk 2/30000).</p>
+<p>Hi! I am <strong>Yaoliang Bian (卞耀亮)</strong>, currently a <u>Final year undergraduate st
+ udent</u> majoring in Electronic Science and Technology at University of Science and Technology of China and doing research at <a href="https://nus.edu.sg/" target="_blank">NUS</a>, supervised by <a href="https://xingyul.github.io/" target="_blank">Prof. Xingyu Liu</a>. I was very fortunate to be advised by <a href="https://ubiot.ustc.edu.cn/weigong" target="_blank">Prof. Wei Gong</a> of <a href="https://ubiot.ustc.edu.cn/Home" target="_blank">Ubiquitous Battery-free Internet of Things Laboratory</a> from <a href="https://en.cs.ustc.edu.cn/" target="_blank">School of Computer Science</a>, University of Science and Technology of China, and <a href="https://www.ece.mcmaster.ca/~ameer/" target="_blank">Prof. Ameer Abehedahi</a> from <a href="https://www.eng.mcmaster.ca/ece/" target="_blank">Department of Electrical and Computer Engineering</a>, McMaster University.</p>
+<div style="magin-top: -10px"></div><p>I have won a a second prize in the <strong>Robogame</strong> at USTC.<br> I also received <strong>"Star of Inspiration (励学之星)"</strong> which was the recipient of the honor for undergraduate and graduate students at University of Science and Technology of China (rk 34/25000).</p>
 <div style="magin-top: -10px"></div><p>My research interests mainly focus on <b>Embodied AI (具身智能)</b>, especially on Robotic Foundation Model, Manipulation Policy (VLA, Diffusion Policy) and Robot Data Synthesizer.</p>
 <p><i style="color: red; display: inline;">Feel free to contact me by email if you are interested in discussing or collaborating with me.</i></p>
 
 <p  style="margin-top: -10px;">
-  <a href="mailto:chentianxing2002@gmail.com" target="_blank"><img src="./files/icon/email.png" height="32px" style="margin-bottom:-4px"></a>&nbsp;
-  <a href="https://scholar.google.com/citations?hl=en&user=pvS8MH8AAAAJ&view_op=list_works&gmla=AOAOcb35IyZHtGmmYcpnDrJFmcsHLBXzjnq0ChbL0CXg4-PjM5UXRspLHuzXI4jgPc077WejF7RSsLUULIZ5ugIxcns6FURGdnTSpPi9JhAeKfhLVXsAIauozmPDdYzcku8VruOeRoapXM7nhkTlaNQ&iaan=Tianxing+Chen" target="_blank"><img src="./files/icon/google_scholar.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
-  <a href="https://github.com/tianxingchen" target="_blank"><img src="./files/icon/github_s.jpg" height="30px" style="margin-bottom:-3px"></a>&nbsp;
-  <a href="https://twitter.com/MarioChan2002" target="_blank"><img src="./files/icon/X_icon.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+  <a href="" target="_blank"><img src="./files/icon/email.png" height="32px" style="margin-bottom:-4px"></a>&nbsp;
+  <!-- <a href="https://scholar.google.com/citations?hl=en&user=pvS8MH8AAAAJ&view_op=list_works&gmla=AOAOcb35IyZHtGmmYcpnDrJFmcsHLBXzjnq0ChbL0CXg4-PjM5UXRspLHuzXI4jgPc077WejF7RSsLUULIZ5ugIxcns6FURGdnTSpPi9JhAeKfhLVXsAIauozmPDdYzcku8VruOeRoapXM7nhkTlaNQ&iaan=Tianxing+Chen" target="_blank"><img src="./files/icon/google_scholar.png" height="30px" style="margin-bottom:-3px"></a>&nbsp; -->
+  <a href="https://github.com/jeffyaoliang" target="_blank"><img src="./files/icon/github_s.jpg" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+  <a href="https://twitter.com/jeffkikt" target="_blank"><img src="./files/icon/X_icon.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
   <a href="./files/my_wechat.jpg" target="_blank"><img src="./files/icon/wechat.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
-  <a href="https://space.bilibili.com/520068753?spm_id_from=333.1007.0.0" target="_blank"><img src="./files/icon/bilibili.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
-  <a href="https://www.zhihu.com/people/mario-chen-65" target="_blank"><img src="./files/icon/zhihu.png" height="30px" style="margin-bottom:-3px"></a>&nbsp; 
+  <a href="https://www.linkedin.com/in/yaoliang-bian-5963852b4/" target="_blank"><img src="./files/icon/LinkedIn.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
   <a href="https://www.xiaohongshu.com/user/profile/618fe930000000001000afe7" target="_blank"><img src="./files/icon/xiaohongshu.png" height="31px" style="margin-bottom:-4px"></a>
+  <a href="https://space.bilibili.com/1945170421" target="_blank"><img src="./files/icon/bilibili.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+  <a href="https://www.zhihu.com/people/41-31-92-13" target="_blank"><img src="./files/icon/zhihu.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+  <a href="https://bonjour.bio/yaoliang"><img src="./files/bonjour.jpg" height="30px" style="margin-bottom:-4px"></a>&nbsp;
+  <a href="./files/CV_Yaoliang Bian_newest(5)(2).pdf" target="_blank">[CV]</a>;
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Ftianxingchen.github.io%2F"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Ftianxingchen.github.io%2F&labelColor=%232ccce4&countColor=%230158f9" /></a>
 </p>
 
