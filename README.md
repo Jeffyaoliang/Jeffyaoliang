@@ -1,20 +1,20 @@
 
 <h1 align="center">
-  Hi, I'm <a href="https://tianxingchen.github.io/" target="_blank">Tianxing CHEN (陈天行) 👋</a> <br>
+  Hi, I'm <a href="https://jeffyaoliang.github.io/" target="_blank">Yaoliang Bian (卞耀亮) 👋</a> <br>
 <!-- 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ftianxingchen.github.io&count_bg=%233FDBD2&title_bg=%233D62C7&icon=googlepodcasts.svg&icon_color=%23E9F742&title=Page+Viewers&edge_flat=false"/></a> -->
-	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/TianxingChen">
-	<img alt="GitHub followers" src="https://img.shields.io/github/followers/TianxingChen">
-	<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/MarioChan2002">
+	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Jeffyaoliang">
+	<img alt="GitHub followers" src="https://img.shields.io/github/followers/Jeffyaoliang">
+	<!-- <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/MarioChan2002"> ->>
 <br>
-<a href="https://tianxingchen.github.io/" target="_blank" style="margin-top: 10px"><img src="https://tianxingchen.github.io/files/sign.jpg" height="70px" style="margin-bottom:-1px"></a>
-<a href="https://tianxingchen.github.io/" target="_blank"><img src="https://tianxingchen.github.io/files/institute/hku-mmlab3.png" height="70px" style="margin-bottom:-1px"></a>
-	<a href="https://tianxingchen.github.io/" target="_blank"><img src="https://github.com/TianxingChen/tianxingchen/blob/main/files/institute/lumina-logo.png" height="70px" style="margin-bottom:-1px"></a>
+<!-- <a href="https://jeffyaoliang.github.io/" target="_blank" style="margin-top: 10px"><img src="https://jeffyaoliang.github.io/files/sign.jpg" height="70px" style="margin-bottom:-1px"></a>
+<a href="https://jeffyaoliang.github.io/" target="_blank"><img src="https://tianxingchen.github.io/files/institute/hku-mmlab3.png" height="70px" style="margin-bottom:-1px"></a>
+	<a href="https://tianxingchen.github.io/" target="_blank"><img src="https://github.com/TianxingChen/tianxingchen/blob/main/files/institute/lumina-logo.png" height="70px" style="margin-bottom:-1px"></a> -->
 </h1>
 
 
 
 
-<h3>🏠 <b>Homepage</b>: <a href="https://tianxingchen.github.io" target="_blank">tianxingchen.github.io</a></h3>
+<h3>🏠 <b>Homepage</b>: <a href="https://jeffyaoliang.github.io" target="_blank">jeffyaoliang.github.io</a></h3>
 <p>Hi! I am <strong>Tianxing Chen (陈天行)</strong>, currently a <u>Final year undergraduate student</u> majoring in Computer Science at Shenzhen University and doing research at <a href="https://mmlab.hk/" target="_blank">MMLab@HKU</a>, supervised by <a href="http://luoping.me">Prof. Ping Luo</a>. I am closely working with <a href="yaomarkmu.github.io">Yao Mu</a>.</p>
 <div style="magin-top: -10px"></div><p>I have won a silver medal in the <strong>ACM-ICPC</strong> regional competition and a national runner-up in the RAICOM robotics competition. I also received <strong>CCF Elite Collegiate Award (CCF优秀大学生, top 99 nationwide)</strong> and <strong>"Excellent Star of SZU (荔园卓越之星)"</strong> which was the recipient of the highest honor for undergraduate students at Shenzhen University (rk 2/30000).</p>
 <div style="magin-top: -10px"></div><p>My research interests mainly focus on <b>Embodied AI (具身智能)</b>, especially on Robotic Foundation Model, Manipulation Policy (VLA, Diffusion Policy) and Robot Data Synthesizer.</p>
