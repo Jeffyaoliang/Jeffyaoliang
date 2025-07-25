@@ -33,7 +33,7 @@
   <a href="https://www.zhihu.com/people/41-31-92-13" target="_blank"><img src="./files/icon/zhihu.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
   <a href="https://bonjour.bio/yaoliang"><img src="./files/bonjour.jpg" height="30px" style="margin-bottom:-4px"></a>&nbsp;
   <a href="./files/CV_Yaoliang Bian_newest(5)(2).pdf" target="_blank">[CV]</a>;
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Ftianxingchen.github.io%2F"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Ftianxingchen.github.io%2F&labelColor=%232ccce4&countColor=%230158f9" /></a>
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FJeffyaoliang%2Fgithub-visitors-badge"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJeffyaoliang%2Fgithub-visitors-badge&label=VISITORS&labelColor=%232ccce4&countColor=%230158f9" /></a>
 </p>
 
 <!-- # 📑 Papers
