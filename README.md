@@ -61,4 +61,4 @@
 # 📷 Open-source Projects
 
 * AI-Exam-Helper “逢考必过”考试复习助手: [Repo](https://ai-exam-apper-jeffyaoliang.streamlit.app/)
-* Robogame2023Miner-Craft-Team 2023年Robogame Miner Craft队: [Repo](https://github.com/Jeffyaoliang/Robogame2023Miner-Craft-Team)
+* Robogame2023 2023年Robogame Miner Craft队: [Repo](https://github.com/Jeffyaoliang/Robogame2023Miner-Craft-Team)
