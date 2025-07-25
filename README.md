@@ -36,7 +36,7 @@
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Ftianxingchen.github.io%2F"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Ftianxingchen.github.io%2F&labelColor=%232ccce4&countColor=%230158f9" /></a>
 </p>
 
-# 📑 Papers
+<!-- # 📑 Papers
 > See [My Google Scholar Profile](https://scholar.google.com/citations?user=pvS8MH8AAAAJ&hl=en) or [My Homepage](https://tianxingchen.github.io) for more details.
 
 ## First / Co-first Author
@@ -55,7 +55,7 @@
 * **[CVPR 25]** DexHandDiff: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation, [Webpage](https://dexdiffuser.github.io/)
 * **[ACL 25]** HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model, [arXiv](https://arxiv.org/abs/2408.09559)
 * **[arXiv 24]** ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation: [Webpage](https://manicm-fast.github.io/) / [Repo](https://github.com/ManiCM-fast/ManiCM)
-* **[ICARM 24]** Robust UAV Policy Learning for Urban Infrastructure Surface Screening, [Paper](https://ieeexplore.ieee.org/abstract/document/10715841/)
+* **[ICARM 24]** Robust UAV Policy Learning for Urban Infrastructure Surface Screening, [Paper](https://ieeexplore.ieee.org/abstract/document/10715841/) -->
 
 
 # 📷 Open-source Projects
