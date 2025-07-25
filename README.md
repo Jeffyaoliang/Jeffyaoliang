@@ -28,7 +28,7 @@
   <a href="https://twitter.com/jeffkikt" target="_blank"><img src="./files/icon/X_icon.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
   <a href="./files/my_wechat.png" target="_blank"><img src="./files/icon/wechat.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
   <a href="https://www.linkedin.com/in/yaoliang-bian-5963852b4/" target="_blank"><img src="./files/icon/LinkedIn.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
-  <a href="https://www.xiaohongshu.com/user/profile/618fe930000000001000afe7" target="_blank"><img src="./files/icon/xiaohongshu.png" height="31px" style="margin-bottom:-4px"></a>
+  <a href="https://www.xiaohongshu.com/user/profile/62a9c97c000000001b026f6f" target="_blank"><img src="./files/icon/xiaohongshu.png" height="31px" style="margin-bottom:-4px"></a>
   <a href="https://space.bilibili.com/1945170421" target="_blank"><img src="./files/icon/bilibili.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
   <a href="https://www.zhihu.com/people/41-31-92-13" target="_blank"><img src="./files/icon/zhihu.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
   <a href="https://bonjour.bio/yaoliang"><img src="./files/bonjour.jpg" height="30px" style="margin-bottom:-4px"></a>&nbsp;
